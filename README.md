@@ -108,5 +108,5 @@ This project is licensed under the **MIT License**.
 For any inquiries or issues, reach out:
 
 **Author:** Danish
-**Email:** [your-email@example.com](mailto:danish786.aps@gmail.com)
-**GitHub:** [https://github.com/yourusername]([https://github.com/yourusername](https://github.com/Mddanish4338))
+**Email:** [your-danish786.aps@gmail.com](mailto:danish786.aps@gmail.com)
+**GitHub:** [https://github.com/yourusername]([https://github.com/MDdanish4338](https://github.com/Mddanish4338))
